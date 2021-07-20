@@ -1,5 +1,5 @@
 # hola_mundo
-Mi primer repositorio en githhub
+Mi primer repositorio 
 
-Autor: Ariadna Roy
+Autor: Ariadna R.
 Fecha: 19 de Julio.
